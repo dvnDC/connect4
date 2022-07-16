@@ -30,7 +30,6 @@ int main(){
         freeBoard(&game);
         break;
     case 2:
-        //highscores();
         break;
     case 3:
         break;
